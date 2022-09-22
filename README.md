@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @lipnganga
-- 👀 I’m interested in sofware and telecommunications engineering..
-- 🌱 I’m currently learning software engineering | telecommunications engineering...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p>Hi my name is @lipnganga.I am a Software engineering student at ALX HOLBERTON INCo. I am also a Telecommunications technician.
+I love programming, swimming,gamming and skating</P
 
-<!---
-lipnganga/lipnganga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
