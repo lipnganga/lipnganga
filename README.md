@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi my name is Philip Ng'ang'a. I am a Software engineering student at ALX HOLBERTON INCo. I am also a Telecommunications technician. I love programming, swimming,gamming and skating
+<br>Software Engineer. Passionate in programming and new technologies.
 
 
 ## 🌐 Socials:
@@ -12,5 +12,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lipnganga&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
